@@ -1,0 +1,17 @@
+.head{
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: double;
+    color: white; 
+}
+.title{
+    text-align: center;
+}
+.body{
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    border-style: groove;
+    
+}
